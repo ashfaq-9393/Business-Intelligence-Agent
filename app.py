@@ -32,12 +32,14 @@ st.markdown("""
     }
     .metric-card {
         background-color: #f0f2f6;
+        color: #1a1a1a;
         padding: 1.5rem;
         border-radius: 0.5rem;
         margin-bottom: 1rem;
     }
     .insight-box {
         background-color: #e8f4f8;
+        color: #1a3a52;
         padding: 1.2rem;
         border-radius: 0.5rem;
         margin-bottom: 0.8rem;
